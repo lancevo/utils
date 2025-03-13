@@ -1,3 +1,5 @@
+// https://github.com/lancevo/utils/blob/main/URLMonitor.md
+
 (function () {
   // Store the original XMLHttpRequest open method and fetch function
   const originalXMLHttpRequest = window.XMLHttpRequest.prototype.open;
